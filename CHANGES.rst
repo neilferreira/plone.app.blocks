@@ -1,10 +1,14 @@
 Changelog
 =========
 
-3.0.2 (unreleased)
+3.1.0 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- index layout data
+  [vangheem]
+
+- cleanup tile data on save/edit
+  [vangheem]
 
 
 3.0.1 (2015-09-23)
